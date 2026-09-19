@@ -8,6 +8,6 @@ Public App Store information pages are included at `dist/support.html` and `dist
 
 The complete deployable website is in `dist/`. No build or package installation is required. Google Fonts are optional; local system fonts are used offline.
 
-Store listings do not exist yet. The three platform cards accurately show Coming soon. When actual URLs are available, replace the status badges with download links and add QR codes encoding those exact URLs.
+The itch.io card links to the published game page. Google Play and App Store listings are still marked Coming soon; replace those status badges with download links when their URLs become available.
 
 Original logo supplied by the game creator. The hero uses an accessible HTML/CSS gameplay interface based on the supplied screenshot: a question and three lane answer cards. The previously generated character artwork remains archived in assets but is not displayed on the website.
